@@ -5,6 +5,7 @@ ProJuice Redesign using Figma
 
 <img width="856" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/83d1640b-f233-4e43-b40c-8c63e5be1d7d">
 
+
 **Login/Register pages After (+ new Footer and Header)**
 
 <img width="1362" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/12f728e5-fc20-4133-981a-fb67583b563c">
@@ -23,6 +24,7 @@ ProJuice Redesign using Figma
 **Subscribtion section Before and After**
 
 <img width="1087" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/0d2e3deb-3c2e-4e56-a4f3-11457fd351eb">
+
 
 **Filter menu Before and After**
 
