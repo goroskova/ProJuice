@@ -5,7 +5,7 @@ ProJuice Redesign using Figma
 
 <img width="856" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/83d1640b-f233-4e43-b40c-8c63e5be1d7d">
 
-**Login/Register pages After**
+**Login/Register pages After (+ new Footer and Header)**
 
 <img width="1085" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/fba78242-a7e7-4fbd-93bf-e4af269f2f6d">
 
