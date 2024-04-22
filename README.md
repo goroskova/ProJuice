@@ -10,6 +10,7 @@ ProJuice Redesign using Figma
 **Delivery Info page Before**
 <img width="473" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/86b8c4a1-4c4b-4cfa-8eb6-fc9d7a79cd80">
 
+
 **Delivery Info pages After**
 <img width="356" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/aca17d00-061f-45c5-b905-5b68f04790d6">
 
