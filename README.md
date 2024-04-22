@@ -7,7 +7,7 @@ ProJuice Redesign using Figma
 
 **Login/Register pages After (+ new Footer and Header)**
 
-<img width="1085" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/fba78242-a7e7-4fbd-93bf-e4af269f2f6d">
+<img width="1362" alt="image" src="https://github.com/goroskova/ProJuice/assets/167102100/12f728e5-fc20-4133-981a-fb67583b563c">
 
 
 **Navigation Before and After**
